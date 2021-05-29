@@ -1,0 +1,9 @@
+(module BroochPin_Back (layer F.Cu) (tedit 5BC1DEED)
+  (fp_text reference REF** (at 0 4) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BroochPin_Back (at 0 -4.445) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd rect (at 0 0) (size 16 6) (layers B.Cu B.Paste B.Mask))
+)

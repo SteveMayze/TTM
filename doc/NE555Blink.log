@@ -1,0 +1,22 @@
+Circuit: * D:\pcbs\ttm\doc\NE555Blink.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Jan 12 14:42:49 2019
+Total elapsed time: 0.085 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16295
+traniter = 16287
+tranpoints = 3636
+accept = 2824
+rejected = 812
+matrix size = 18
+fillins = 0
+solver = Normal
+Matrix Compiler1: 548 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 1.05 KB object code size  0.1/0.2/[0.1]
+
+
